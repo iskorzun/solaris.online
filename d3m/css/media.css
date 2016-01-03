@@ -1,0 +1,612 @@
+/*==========  Desktop First Method  ==========*/
+
+@media only screen and (min-width : 13660px) {
+	.s-comment .prev_button {
+		left: 6400px;
+	}
+	.s-comment .next_button {
+		right: 6400px;
+	}
+	.s-comment .bg-comment {
+		padding: 70px 39%;
+	}
+	.s-comment .bg-comment img.ava {
+		left: 780px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+   		padding-left: 80px;
+	}
+	.s-comment .comment-icon {
+	padding-bottom: 50px;
+	}
+	.s-comment .bg-comment p.last {
+    	padding-bottom: 33px;
+	}
+}
+
+@media only screen and (min-width : 9107px) and (max-width : 13659px) {
+	.s-comment .prev_button {
+		left: 4098px;
+	}
+	.s-comment .next_button {
+		right: 4098px;
+	}
+	.s-comment .bg-comment {
+		padding: 64px 34%;
+	}
+	.s-comment .bg-comment img.ava {
+		left: 405px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+   		padding-left: 60px;
+	}
+	.s-comment .comment-icon {
+	padding-bottom: 50px;
+	}
+	.s-comment .bg-comment p.last {
+    	padding-bottom: 33px;
+	}
+}
+
+@media only screen and (min-width : 6830px) and (max-width : 9106px) {
+	.s-bonus .unity-go {
+		padding: 0;
+	}
+	.s-comment .prev_button {
+		left: 3018px;
+	}
+	.s-comment .next_button {
+		right: 3018px;
+	}
+	.s-comment .bg-comment {
+		padding: 64px 30%;
+	}
+	.s-comment .bg-comment img.ava {
+		left: 210px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+   		padding-left: 60px;
+	}
+	.s-comment .comment-icon {
+	padding-bottom: 50px;
+	}
+}
+
+@media only screen and (min-width : 5260px) and (max-width : 6829px) {
+	.top-mnu .nav-out {
+		-webkit-background-size: 89% 4px;
+		background-size: 89% 4px;
+	}
+	.s-bonus .unity-go {
+		padding: 0;
+	}
+	.s-comment .prev_button {
+		left: 41%;
+	}
+	.s-comment .next_button {
+		right: 41%;
+	}
+	.s-comment .bg-comment {
+		padding: 64px 19%;
+	}
+	.s-comment .bg-comment img.ava {
+		left: 90px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+   		padding-left: 120px;
+	}
+	.s-comment .comment-icon {
+	padding-bottom: 50px;
+	}
+	.s-comment .bg-comment p.last {
+    	padding-bottom: 33px;
+	}
+	.s-price .question {
+		padding: 21px 0 0 8px;
+	}
+	.s-discount .discount-modules ul {
+		margin: 15px 0 0 22px;
+	}
+	.s-discount .discount-modules ul li {
+		padding-bottom: 3px;
+		padding-left: 0;
+	}
+	.s-discount .discount-wrap .important {
+		padding-top: 10px;
+	}
+	.s-faq .place .question-wrap {
+	   padding: 16px 8px;
+	}
+}
+
+@media only screen and (min-width : 3948px) {
+	.header-form input,
+	.s-callback .callback-form input {
+		width: 318px;
+	}
+}
+
+@media only screen and (min-width : 4497px) and (max-width : 5259px) {
+	.top-mnu .nav-out {
+		-webkit-background-size: 91% 2px;
+		background-size: 91% 2px;
+	}
+	.s-comment .prev_button {
+		left: 41%;
+	}
+	.s-comment .next_button {
+		right: 41%;
+	}
+	.s-comment .bg-comment {
+		padding: 64px 13%;
+	}
+	.s-comment .bg-comment img.ava {
+	left: -2px;
+	}
+}
+
+@media only screen and (min-width : 3373px) and (max-width : 4496px) {
+	.top-mnu .nav-out {
+		-webkit-background-size: 89% 4px;
+		background-size: 89% 4px;
+	}
+	.s-comment .prev_button {
+		left: 37%;
+	}
+	.s-comment .next_button {
+		right: 37%;
+	}
+	.s-comment .bg-comment {
+		padding: 64px 18%;
+	}
+	.s-comment .bg-comment img.ava {
+	left: 40px;
+	}
+}
+
+@media only screen and (min-width : 2698px) and (max-width : 3372px) {
+	.top-mnu .nav-out {
+		-webkit-background-size: 87% 2px;
+		background-size: 87% 2px;
+	}
+	.s-comment .prev_button {
+		left: 36%;
+	}
+	.s-comment .next_button {
+		right: 36%;
+	}
+	.s-comment .bg-comment {
+		padding: 64px 11%;
+	}
+	.s-comment .bg-comment img.ava {
+	left: -27px;
+	}
+}
+
+@media only screen and (min-width : 2248px) and (max-width : 2697px) {
+	.top-mnu .nav-out {
+		-webkit-background-size: 84% 2px;
+		background-size: 84% 2px;
+	}
+	.s-comment .prev_button {
+		left: 26%;
+	}
+	.s-comment .next_button {
+		right: 26%;
+	}
+	.s-comment .bg-comment {
+		padding: 64px 30%;
+	}
+	.s-comment .bg-comment img.ava {
+	left: 23%;
+	}
+}
+
+@media only screen and (min-width : 1934px) and (max-width : 2247px) {
+	.top-mnu .nav-out {
+		-webkit-background-size: 82% 2px;
+		background-size: 82% 2px;
+	}
+	.s-comment .prev_button {
+		left: 26%;
+	}
+	.s-comment .next_button {
+		right: 26%;
+	}
+	.s-comment .bg-comment {
+		padding: 64px 27%;
+	}
+	.s-comment .bg-comment img.ava {
+	left: 19%;
+	}
+}
+
+@media only screen and (min-width : 1686px) and (max-width : 1933px) {
+	.top-mnu .nav-out {
+		-webkit-background-size: 79% 2px;
+		background-size: 79% 2px;
+	}
+	.s-comment .prev_button {
+		left: 25%;
+	}
+	.s-comment .next_button {
+		right: 25%;
+	}
+	.s-comment .bg-comment {
+		padding: 64px 22.4%;
+	}
+	.s-comment .bg-comment img.ava {
+	left: 14%;
+	}
+}
+
+/* Extra Large Devices, Wide Screens */
+@media only screen and (min-width : 1506px) and (max-width : 1685px) {
+	.top-mnu .nav-out {
+		-webkit-background-size: 77% 2px;
+		background-size: 77% 2px;
+	}
+	.s-comment .prev_button {
+		left: 24%;
+	}
+	.s-comment .next_button {
+		right: 24%;
+	}
+	.s-comment .bg-comment {
+		padding: 64px 18%;
+	}
+	.s-comment .bg-comment img.ava {
+	left: 56px;
+	}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1349px) and (max-width : 1505px) {
+	.s-comment .bg-comment {
+		padding: 64px 13%;
+	}
+}
+
+@media only screen and (min-width : 1200px) and (max-width : 1280px) {
+	.top-mnu .nav-out {
+		background: #2d2a3c url(../img/line-menu1.png) no-repeat 46% center;
+		-webkit-background-size: 71.5%;
+		background-size: 71.5%;
+	}
+}
+
+@media only screen and (min-width : 1124px) and (max-width : 1199px) {
+	.top-mnu .nav-out {
+		background: #2d2a3c url(../img/line-menu1.png) no-repeat 46% center;
+		-webkit-background-size: 69.5%;
+		background-size: 69.5%;
+	}
+}
+
+@media only screen and (min-width : 1025px) and (max-width : 1123px) {
+	.top-mnu .nav-out {
+		background: #2d2a3c url(../img/line-menu1.png) no-repeat 46% center;
+		-webkit-background-size: 67.5%;
+		background-size: 67.5%;
+	}
+}
+
+@media only screen and (min-width : 967px) and (max-width : 1024px) {
+	.top-mnu .nav-out {
+		background: #2d2a3c url(../img/line-menu1.png) no-repeat 46% center;
+		-webkit-background-size: 65%;
+		background-size: 65%;
+	}
+}
+
+@media only screen and (min-width : 1124px) and (max-width : 1348px) {
+
+	.s-comment .prev_button {
+		left: 21%;
+		top: 494px;
+	}
+	.s-comment .next_button {
+		right: 21%;
+		top: 494px;
+	}
+	.s-comment .bg-comment {
+		padding: 87px 9% 0;
+	}
+	.s-comment .bg-comment img.ava {
+	left: -25px;
+	top: 39px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+    padding-left: 80px;
+	}
+	.s-comment .bg-comment p {
+    padding-bottom: 20px;
+	}
+	.s-comment .bg-comment p.last {
+    padding-bottom: 23px;
+	}
+}
+
+
+
+@media only screen and (min-width : 967px) and (max-width : 1123px) {
+	.s-comment .prev_button {
+		left: 21%;
+		top: 494px;
+	}
+	.s-comment .next_button {
+		right: 21%;
+		top: 494px;
+	}.s-comment .bg-comment {
+		padding: 82px 8% 0;
+	}
+	.s-comment .comment-icon {
+    padding-bottom: 50px;
+	}
+	.s-comment .bg-comment img.ava {
+	left: -25px;
+	top: 39px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+    padding-left: 80px;
+	}
+	.s-comment .bg-comment p {
+    padding-bottom: 14px;
+	}
+	.s-comment .bg-comment p.last {
+    padding-bottom: 23px;
+	}
+}
+
+@media only screen and (max-width : 1200px) {
+	.top-mnu .nav-in li.dot {
+	    display: none;
+	}
+}
+
+@media only screen and (min-width : 967px) and (max-width : 984px) {
+	.top-mnu {
+		width: 985px;
+	}
+}
+
+@media only screen and (min-width : 768px) and (max-width : 966px) {
+	.top-mnu .nav-out {
+		background: #2d2a3c url(../img/line-menu1.png) no-repeat 46% center;
+		-webkit-background-size: 65%;
+		background-size: 65%;
+	}
+	.top-mnu {
+		width: 970px;
+	}
+	.s-comment .prev_button {
+		left: 20%;
+		top: 494px;
+	}
+	.s-comment .next_button {
+		right: 20%;
+		top: 494px;
+	}.s-comment .bg-comment {
+		padding: 82px 8% 0;
+	}
+	.s-comment .comment-icon {
+    padding-bottom: 50px;
+	}
+	.s-comment .bg-comment img.ava {
+	left: -25px;
+	top: 39px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+    padding-left: 85px;
+	}
+	.s-comment .bg-comment p {
+    padding-bottom: 14px;
+	}
+	.s-comment .bg-comment p.last {
+    padding-bottom: 23px;
+	}
+}
+
+@media only screen  and (max-width : 767px) {
+	.descr-about,
+	.descr-confid,
+	.descr-questions  {
+		margin-top: 0;
+	}
+	.s-video {
+		margin-top: 0;
+	}
+}
+
+@media only screen and (min-width : 600px) and (max-width : 767px) {
+	.top-mnu {
+		display: none;
+	}
+	.s-comment .prev_button {
+		display: none;
+	}
+	.s-comment .next_button {
+		display: none;
+	}.s-comment .bg-comment {
+		padding: 82px 7% 0;
+	}
+	.s-comment .comment-icon {
+    padding-bottom: 50px;
+	}
+	.s-comment .bg-comment img.ava {
+	left: -25px;
+	top: 39px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+    padding-left: 85px;
+	}
+	.s-comment .bg-comment p {
+    padding-bottom: 14px;
+	}
+	.s-comment .bg-comment p.last {
+    padding-bottom: 23px;
+	}
+}
+
+@media only screen and (min-width : 480px) and (max-width : 599px) {
+	.top-mnu {
+		display: none;
+	}
+	.s-comment .prev_button {
+		display: none;
+	}
+	.s-comment .next_button {
+		display: none;
+	}.s-comment .bg-comment {
+		padding: 82px 8% 0;
+	}
+	.s-comment .comment-icon {
+    padding-bottom: 50px;
+	}
+	.s-comment .bg-comment img.ava {
+	left: -25px;
+	top: 39px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+    padding-left: 80px;
+	}
+	.s-comment .bg-comment p {
+    padding-bottom: 12px;
+	}
+	.s-comment .bg-comment p.last {
+    padding-bottom: 15px;
+	}
+}
+
+@media only screen and (min-width : 320px) and (max-width : 479px) {
+	.top-mnu {
+		display: none;
+	}
+	/*.top-mnu {
+		visibility: hidden;
+	}*/
+	.s-comment .prev_button {
+		display: none;
+	}
+	.s-comment .next_button {
+		display: none;
+	}.s-comment .bg-comment {
+		padding: 82px 8% 0;
+	}
+	.s-comment .comment-icon {
+    padding-bottom: 50px;
+	}
+	.s-comment .bg-comment img.ava {
+	left: -25px;
+	top: 39px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+    padding-left: 80px;
+	}
+	.s-comment .bg-comment p {
+    padding-bottom: 14px;
+	}
+	.s-comment .bg-comment p.last {
+    padding-bottom: 15px;
+	}
+}
+
+@media only screen and (max-width : 320px) {
+	.top-mnu {
+		display: none;
+	}
+	.s-comment .prev_button {
+		display: none;
+	}
+	.s-comment .next_button {
+		display: none;
+	}.s-comment .bg-comment {
+		padding: 82px 8% 0;
+	}
+	.s-comment .comment-icon {
+    padding-bottom: 50px;
+	}
+	.s-comment .bg-comment img.ava {
+	left: -25px;
+	top: 39px;
+	}
+	.s-comment .bg-comment .comment-accaunt {
+    padding-left: 85px;
+	}
+	.s-comment .bg-comment p {
+    padding-bottom: 14px;
+	}
+	.s-comment .bg-comment p.last {
+    padding-bottom: 15px;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	
+	/*Disable Animation on Mobile Devices*/
+	.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}

@@ -1,0 +1,167 @@
+/**********************************
+STYLE FOR VALID/NO-VALID ELEMENTS ON EVENTS
+***********************************/
+
+input#no-valid-input[type="text"] {
+	background: #ffecec;
+}
+input#valid-input[type="text"] {
+	background: #f2fff1;
+}
+.header-form .button#no-valid-input[type="submit"] {
+	background: #9a999b;
+}
+.header-form .button#valid-input[type="submit"] {
+	background: #4580fd;
+}
+.s-test .form-send .uroki {
+	background: #e6e6e6;
+	border: 2px solid transparent;
+	display: inline-block;
+	font-family: "proxima-nova-n6", "ProximaNovaRegular", sans-serif;
+	font-size: 16px;
+	height: 48px;
+	line-height: 45px;
+	margin-right: 21px;
+	padding-left: 20px;
+	width: 638px;
+}
+.s-test .form-send .thanks {
+	background: #b0cb8e;
+	border: 2px solid transparent;
+	display: inline-block;
+	font-family: "proxima-nova-n8", "ProximaNovaBold", sans-serif;
+	font-size: 12px;
+	height: 48px;
+	letter-spacing: 1.2px;
+	line-height: 48px;
+	text-transform: uppercase;
+	width: 296px;
+}
+.s-test .form-send .thanks a {
+	color: #fff;
+	text-align: center;
+	display: block;
+}
+
+.s-news .form-send .uroki {
+	background: #e6e6e6;
+	border: 2px solid transparent;
+	display: inline-block;
+	font-family: "proxima-nova-n6", "ProximaNovaRegular", sans-serif;
+	font-size: 16px;
+	height: 48px;
+	line-height: 45px;
+	margin-right: 21px;
+	padding-left: 20px;
+	width: 638px;
+}
+.s-news .form-send .thanks {
+	background: #b0cb8e;
+	border: 2px solid transparent;
+	display: inline-block;
+	font-family: "proxima-nova-n8", "ProximaNovaBold", sans-serif;
+	font-size: 12px;
+	height: 48px;
+	letter-spacing: 1.2px;
+	line-height: 48px;
+	text-transform: uppercase;
+	width: 296px;
+}
+.s-news .form-send .thanks a {
+	color: #fff;
+	text-align: center;
+	display: block;
+}
+
+.s-callback .form-send .uroki {
+	background: #e6e6e6;
+	border: 2px solid transparent;
+	display: inline-block;
+	font-family: "proxima-nova-n6", "ProximaNovaRegular", sans-serif;
+	font-size: 16px;
+	height: 48px;
+	line-height: 45px;
+	margin-right: 21px;
+	padding-left: 20px;
+	width: 638px;
+}
+.s-callback .form-send .thanks {
+	background: #b0cb8e;
+	border: 2px solid transparent;
+	display: inline-block;
+	font-family: "proxima-nova-n8", "ProximaNovaBold", sans-serif;
+	font-size: 12px;
+	height: 48px;
+	letter-spacing: 1.2px;
+	line-height: 48px;
+	text-transform: uppercase;
+	width: 296px;
+}
+.s-callback .form-send .thanks a {
+	color: #fff;
+	text-align: center;
+	display: block;
+}
+
+
+.s-discount .form-send .uroki {
+	background: #e6e6e6;
+	border: 2px solid transparent;
+	display: inline-block;
+	font-family: "proxima-nova-n6", "ProximaNovaRegular", sans-serif;
+	font-size: 16px;
+	height: 48px;
+	line-height: 45px;
+	margin-right: 21px;
+	padding-left: 20px;
+	width: 638px;
+}
+.s-discount .form-send .thanks {
+	background: #b0cb8e;
+	border: 2px solid transparent;
+	display: inline-block;
+	font-family: "proxima-nova-n8", "ProximaNovaBold", sans-serif;
+	font-size: 12px;
+	height: 48px;
+	letter-spacing: 1.2px;
+	line-height: 48px;
+	text-transform: uppercase;
+	width: 296px;
+}
+.s-discount .form-send .thanks a {
+	color: #fff;
+	text-align: center;
+	display: block;
+}
+
+
+.s-faq .form-send .zayavka {
+	background: #e6e6e6;
+	border: 2px solid transparent;
+	display: block;
+	font-family: "proxima-nova-n6", "ProximaNovaRegular", sans-serif;
+	font-size: 16px;
+	height: 140px;
+	margin-right: 21px;
+	padding-left: 20px;
+	width: 296px;
+}
+.s-faq .form-send .thanks {
+	background: #b0cb8e;
+	border: 2px solid transparent;
+	display: block;
+	font-family: "proxima-nova-n8", "ProximaNovaBold", sans-serif;
+	font-size: 12px;
+	height: 48px;
+	letter-spacing: 1.2px;
+	line-height: 48px;
+	margin: 15px 0 20px;
+	text-transform: uppercase;
+	width: 296px;
+}
+.s-faq .form-send .thanks a {
+	color: #fff;
+	text-align: center;
+	display: block;
+}
